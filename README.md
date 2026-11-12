@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi 👋, I'm Mohamed Amine Sabehi
@@ -8,6 +9,7 @@ I build web applications and enjoy working across **frontend, backend, DevOps an
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaminesabehy)
 [![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MohamedAmine.Sabehi@esprit.tn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-amine-portfolio-six.vercel.app/)
 
 </div>
 
@@ -15,13 +17,14 @@ I build web applications and enjoy working across **frontend, backend, DevOps an
 
 - 💻 Full-stack development with **React, Angular, Node.js, Spring Boot** and **Laravel**.
 - ⚙️ Interested in **software architecture, CI/CD, DevOps and AI/ML**.
+- 🌐 Explore my work on my [Personal Portfolio](https://mohamed-amine-portfolio-six.vercel.app/).
 - 📍 Based in **Tunis, Tunisia**.
 
 ## 🎓 Education
 
 | Institution | Degree | Period |
 |---|---|---|
-| **ESPRIT**, Tunis | Engineering degree in Computer Science — TWIN | 2023–2026 |
+| **ESPRIT**, Tunis | Engineering Degree in Computer Science — TWIN | 2023–2026 |
 | **ESEN**, Manouba | Licence en Informatique Appliquée à la Gestion | 2020–2023 |
 
 ## 💼 Experience
