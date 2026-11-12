@@ -2,26 +2,35 @@
 
 # Hi 👋, I'm Mohamed Amine Sabehi
 
-### Software Engineer | Full-Stack Developer from Tunisia 🇹🇳
+### Software Engineer · Full-Stack Developer 🇹🇳
 
-**Building modern web applications, exploring DevOps, and bringing AI into real-world projects.**
+I build web applications and enjoy working across **frontend, backend, DevOps and AI**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaminesabehy)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MohamedAmine.Sabehi@esprit.tn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaminesabehy)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MohamedAmine.Sabehi@esprit.tn)
 
 </div>
 
----
+## 👨‍💻 About Me
 
-### 👨‍💻 About me
-
-- 🎓 Software Engineering graduate from **ESPRIT**, specializing in **TWIN**.
-- 💻 Interested in **Full-Stack Development, Software Architecture, DevOps, CI/CD and AI/ML**.
-- 🛠️ Experience building applications with **React, Angular, Node.js, NestJS, Spring Boot, Laravel and Django**.
+- 💻 Full-stack development with **React, Angular, Node.js, Spring Boot** and **Laravel**.
+- ⚙️ Interested in **software architecture, CI/CD, DevOps and AI/ML**.
 - 📍 Based in **Tunis, Tunisia**.
-- 🚀 Explore my projects below and in my [repositories](https://github.com/mohamedaminesabehy?tab=repositories).
 
-### 🧰 Languages & Tools
+## 🎓 Education
+
+| Institution | Degree | Period |
+|---|---|---|
+| **ESPRIT**, Tunis | Engineering degree in Computer Science — TWIN | 2023–2026 |
+| **ESEN**, Manouba | Licence en Informatique Appliquée à la Gestion | 2020–2023 |
+
+## 💼 Experience
+
+- **SOMACS** — Engineering graduation project: ERP / after-sales service management application.
+- **One Gate Africa** — Web development internship: ride-sharing platform with Angular, Spring Boot, PostgreSQL and Keycloak.
+- **Office de la Marine Marchande et des Ports (OMMP)** — Web development internships: reporting and statistics with Java EE, JSP and Oracle.
+
+## 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -33,30 +42,21 @@
 
 </div>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it does | Original source |
+| Project | Description | Source |
 |---|---|---|
-| **SOMACS** | Service management / ERP frontend | [View repository](https://github.com/mohamedaminesabehy/somacs-front) |
-| **Foodie** | Restaurant management with microservices | [View repository](https://github.com/mohamedaminesabehy/micro_services) |
-| **Maktba** | Book platform built with Laravel | [View repository](https://github.com/mohamedaminesabehy/Projet_Laravel) |
-| **MyJournal IA** | AI-assisted personal journal | [View repository](https://github.com/mohamedaminesabehy/MyJournal_IA) |
-| **YummiFood** | JavaFX restaurant desktop application | [View repository](https://github.com/mohamedaminesabehy/YammiFoodDesktop) |
+| **SOMACS** | ERP / after-sales service management | [GitHub](https://github.com/mohamedaminesabehy/somacs-front) |
+| **Rescuify** | Medical emergency management platform | [GitHub](https://github.com/mohamedaminesabehy/pisonar) |
+| **Foodie** | Restaurant management with microservices | [GitHub](https://github.com/mohamedaminesabehy/micro_services) |
+| **Maktba** | Book platform with Laravel | [GitHub](https://github.com/mohamedaminesabehy/Projet_Laravel) |
+| **MyJournal IA** | AI-assisted personal journal | [GitHub](https://github.com/mohamedaminesabehy/MyJournal_IA) |
+| **YummiFood** | JavaFX desktop restaurant application | [GitHub](https://github.com/mohamedaminesabehy/YammiFoodDesktop) |
 
-### 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminesabehy&layout=compact&hide_border=true&title_color=2563eb" alt="Most used languages across my public GitHub repositories" />
-
-</div>
-
-> Language statistics reflect GitHub repository code, not personal proficiency. External badge/stat image services may occasionally be unavailable.
-
----
+## 📊 Most Used Languages
 
 <div align="center">
 
-📬 **Let's connect!** — [GitHub](https://github.com/mohamedaminesabehy) · [Email](mailto:MohamedAmine.Sabehi@esprit.tn)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminesabehy&layout=compact&hide_border=true&title_color=2563eb" alt="Most used languages in public repositories" />
 
 </div>
