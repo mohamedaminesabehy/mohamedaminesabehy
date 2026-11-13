@@ -30,6 +30,7 @@ I build web applications and enjoy working across **frontend, backend, DevOps an
 ## 💼 Experience
 
 - **SOMACS** — Engineering graduation project: ERP / after-sales service management application.
+- **AFH (Agence Foncière d'Habitation)** — Web development internship using **Spring Boot, Angular and Oracle**.
 - **One Gate Africa** — Web development internship: ride-sharing platform with Angular, Spring Boot, PostgreSQL and Keycloak.
 - **Office de la Marine Marchande et des Ports (OMMP)** — Web development internships: reporting and statistics with Java EE, JSP and Oracle.
 
@@ -49,6 +50,7 @@ I build web applications and enjoy working across **frontend, backend, DevOps an
 
 | Project | Description | Source |
 |---|---|---|
+| **Win Tokhrej** | Platform for discovering restaurants, cafés and places to visit in Tunisia | [Live Website](https://www.wintokhrej.com) |
 | **SOMACS** | ERP / after-sales service management | [GitHub](https://github.com/mohamedaminesabehy/somacs-front) |
 | **Rescuify** | Medical emergency management platform | [GitHub](https://github.com/mohamedaminesabehy/pisonar) |
 | **Foodie** | Restaurant management with microservices | [GitHub](https://github.com/mohamedaminesabehy/micro_services) |
